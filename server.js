@@ -6,7 +6,7 @@ const app = express();
 const PORT = 3000;
 
 // Flag for the CTF challenge
-const FLAG = "technovate[hEllo_XSS^]";
+const FLAG = "technovate[manhaTtAnhenge_Newyork^]";
 
 // Middleware to parse form data
 app.use(bodyParser.urlencoded({ extended: true }));
